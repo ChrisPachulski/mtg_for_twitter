@@ -1,5 +1,5 @@
 # Twitter Bot for Content Generation
-Dynamically pull data from my personal database, available apis and reposiroties to generate twitter content for 31 days.
+Dynamically pull data from my personal database, available apis and repositories to generate twitter content for 31 days.
 
 Each day has unique logic to arrive at a single item/topic to focus in on, create media, and create a tweet based built on top of the arrived upon logic.
 
